@@ -1,0 +1,15 @@
+*.npy
+*.mp4
+*.MP4
+*.jpg
+*.tfrecord*
+*.zip
+./coordinator/model_to_send*/*
+./coordinator/received_model*/*
+./coordinator/training_*/*
+./coordinator/my_model/*/*
+./coordinator/logs*/*
+*.h5
+*.json
+*.eps
+*.png
